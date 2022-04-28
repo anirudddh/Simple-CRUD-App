@@ -1,4 +1,4 @@
-# simple-crud
+# Simple-CRUD-App
 Crud app using only html,css and javascript.
 
 This site is live on https://aniruddh.github.io/simple-crud/
